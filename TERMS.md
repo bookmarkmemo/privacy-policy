@@ -1,12 +1,12 @@
 # BookmarkMemo Pro — License Terms / 授權條款
 
 **Product:** BookmarkMemo / 書籤備忘錄  
-**Last updated:** 2026-09-23  
+**Last updated:** 2026-09-24  
 
-This document summarizes the Pro license for buyers. Payment processing and refunds are also subject to **Lemon Squeezy** and the seller’s checkout terms.  
-本文件說明 Pro 授權要點。付款與退款另依 **Lemon Squeezy** 及賣方結帳條款。
+This document summarizes the Pro license for buyers. Payment processing and refunds are also subject to **Polar** and the seller’s checkout terms.  
+本文件說明 Pro 授權要點。付款與退款另依 **Polar** 及賣方結帳條款。
 
-Privacy policy: https://jack-li1988.github.io/privacy-policy/
+Privacy policy: https://bookmarkmemo.github.io/privacy-policy/
 
 ---
 
@@ -25,13 +25,13 @@ Buy Me a Coffee / tips do **not** unlock Pro.
 ### 2. Local product; online checks for abuse control
 Pro authorizes **local use** of the unlocked features on your device.
 
-Online license activation / validation (via Lemon Squeezy) is used mainly to:
+Online license activation / validation (via Polar) is used mainly to:
 
 - confirm a key is valid;  
 - enforce the **device activation limit** (currently **2** devices);  
 - reduce abuse (key sharing beyond the limit, obvious fraud).
 
-Bookmark contents, notes, and guide images are **not** sent to Lemon Squeezy or to a developer server for licensing.
+Bookmark contents, notes, and guide images are **not** sent to Polar or to a developer server for licensing.
 
 ### 3. Offline use after validation; service discontinuation
 After a successful activation (or a successful validation) on a device, the extension stores a local license state.
@@ -54,8 +54,8 @@ Without limiting other disclaimers:
 
 ### 5. Devices, transfers, refunds
 - Device limit: see store listing / product page (currently **2**).  
-- Moving to a new device may require activating with your License Key within that limit (and Lemon Squeezy’s rules for deactivating instances, if any).  
-- Refunds follow Lemon Squeezy / seller policy.
+- Moving to a new device may require activating with your License Key within that limit (and Polar’s rules for deactivating instances, if any).  
+- Refunds follow Polar / seller policy.
 
 ### 6. Your responsibilities
 - Export backups regularly if your memos/images matter; uninstalling clears local extension data.  
@@ -63,7 +63,7 @@ Without limiting other disclaimers:
 - You are responsible for complying with Chrome Web Store and applicable laws.
 
 ### 7. Contact
-https://github.com/Jack-Li1988/privacy-policy/issues
+https://github.com/bookmarkmemo/privacy-policy/issues
 
 ---
 
@@ -82,13 +82,13 @@ Pro 為**一次買斷**，在您以有效 License Key **啟用**的裝置上，�
 ### 2. 買斷本機功能；線上驗證用於防濫用與換機
 Pro 授權您在本機使用已解鎖功能。
 
-線上啟用／驗證（透過 Lemon Squeezy）主要用於：
+線上啟用／驗證（透過 Polar）主要用於：
 
 - 確認金鑰有效；  
 - 執行**裝置啟用上限**（目前 **2** 台）；  
 - 降低濫用（超出上限分享金鑰、明顯詐欺）。
 
-授權流程**不會**把書籤內容、備忘或說明圖送到 Lemon Squeezy 或開發者自有伺服器。
+授權流程**不會**把書籤內容、備忘或說明圖送到 Polar 或開發者自有伺服器。
 
 ### 3. 驗證後可離線使用；服務中止後的已購權益
 裝置上成功啟用（或成功驗證）後，擴充會保存本機授權狀態。
@@ -111,8 +111,8 @@ Pro 授權您在本機使用已解鎖功能。
 
 ### 5. 裝置、換機、退款
 - 裝置上限見商店／產品頁（目前 **2** 台）。  
-- 換機需在上限內以 License Key 啟用（並遵守 Lemon Squeezy 對 instance 之規則，如有）。  
-- 退款依 Lemon Squeezy／賣方政策。
+- 換機需在上限內以 License Key 啟用（並遵守 Polar 對 instance 之規則，如有）。  
+- 退款依 Polar／賣方政策。
 
 ### 6. 您的責任
 - 重要資料請自行定期匯出；卸載擴充會清除本機擴充資料。  
@@ -120,7 +120,7 @@ Pro 授權您在本機使用已解鎖功能。
 - 請遵守 Chrome 商店政策與適用法律。
 
 ### 7. 聯絡
-https://github.com/Jack-Li1988/privacy-policy/issues
+https://github.com/bookmarkmemo/privacy-policy/issues
 
 ---
 
@@ -135,7 +135,7 @@ Pro 为**一次买断**，在您用有效 License Key **启用**的设备上，�
 核心功能保持**免费**。自愿打赏**不含** Pro。
 
 ### 2. 买断本地功能；在线验证用于防滥用与换机
-Pro 授权本地使用已解锁功能。在线启用／验证（Lemon Squeezy）主要用于确认密钥、执行设备上限（目前 **2** 台）与降低滥用。授权不会上传书签内容／备忘／说明图。
+Pro 授权本地使用已解锁功能。在线启用／验证（Polar）主要用于确认密钥、执行设备上限（目前 **2** 台）与降低滥用。授权不会上传书签内容／备忘／说明图。
 
 ### 3. 验证后可离线；服务中止后
 成功启用／验证后会保存本地授权状态。服务器暂时不可达或授权服务永久中止时，**已启用**设备可在已安装版本仍提供的功能范围内，继续使用已解锁 Pro 功能。这不要求开发者永久运营服务器、上架或更新。请自行保管 License Key 并备份。
@@ -144,7 +144,7 @@ Pro 授权本地使用已解锁功能。在线启用／验证（Lemon Squeezy）
 Chrome、商店政策或 API 变更可能导致功能失效；未来版本可能调整范围与界面；一次买断不保证涵盖所有未来新功能。软件按现状提供，不保证永久可用。
 
 ### 5. 设备、退款
-设备上限见商店说明；退款依 Lemon Squeezy／卖方政策。
+设备上限见商店说明；退款依 Polar／卖方政策。
 
 ### 6. 联系
-https://github.com/Jack-Li1988/privacy-policy/issues
+https://github.com/bookmarkmemo/privacy-policy/issues
