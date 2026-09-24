@@ -3,7 +3,7 @@
 **Last updated:** 2026-09-24  
 **Developer:** bookmarkmemo  
 **Product:** BookmarkMemo / 書籤備忘錄 (Chrome Extension)  
-**Contact:** https://github.com/bookmarkmemo/privacy-policy/issues  
+**Contact:** bookmarkmemo888@gmail.com · https://github.com/bookmarkmemo/privacy-policy/issues  
 
 This file is a local backup of the public privacy policy.  
 Public URL (GitHub Pages): https://bookmarkmemo.github.io/privacy-policy/
@@ -133,6 +133,8 @@ We may update this policy. The “Last updated” date will change. Continued us
 
 ## 9. Contact
 
+Email: bookmarkmemo888@gmail.com
+
 Questions: open an issue at  
 https://github.com/bookmarkmemo/privacy-policy/issues  
 
@@ -152,7 +154,7 @@ https://buymeacoffee.com/No.9Li
 **最後更新日期：** 2026-09-24  
 **開發者：** bookmarkmemo  
 **產品：** BookmarkMemo／書籤備忘錄（Chrome 擴充功能）  
-**聯絡方式：** https://github.com/bookmarkmemo/privacy-policy/issues  
+**聯絡方式：** bookmarkmemo888@gmail.com · https://github.com/bookmarkmemo/privacy-policy/issues  
 
 本檔為公開隱私權政策的本機備份。  
 公開網址（GitHub Pages）：https://bookmarkmemo.github.io/privacy-policy/
@@ -255,6 +257,8 @@ https://bookmarkmemo.github.io/privacy-policy/TERMS.md
 ---
 
 ## 9. 聯絡
+
+Email：bookmarkmemo888@gmail.com
 
 問題請至：https://github.com/bookmarkmemo/privacy-policy/issues  
 
