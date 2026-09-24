@@ -18,6 +18,7 @@ BookmarkMemo (書籤備忘錄) helps you browse Chrome bookmarks with optional g
 - Data created by the extension is stored in **your browser** (Chrome storage) on your device.
 - Optional “Buy me a coffee” opens a third-party site only when **you** click the link; it is voluntary support and does **not** unlock Pro.
 - Optional **Pro** (one-time) unlocks full local backup export/import. Checkout and license activation use **Polar**.
+- Chrome Web Store: https://chromewebstore.google.com/detail/bookmarkmemo/dmihfdbbcdkmaejgdmgjejihnjgjhmde
 
 ---
 
@@ -136,7 +137,10 @@ Questions: open an issue at
 https://github.com/bookmarkmemo/privacy-policy/issues  
 
 Pro checkout:  
-https://buy.polar.sh/REPLACE_WITH_YOUR_CHECKOUT_LINK  
+https://buy.polar.sh/polar_cl_pVr9BMe8GNKmnQRN17EM2SAQk2pDPBM1HEacI1P65nu  
+
+Chrome Web Store:  
+https://chromewebstore.google.com/detail/bookmarkmemo/dmihfdbbcdkmaejgdmgjejihnjgjhmde  
 
 Tip / support page (optional, user-initiated, no Pro):  
 https://buymeacoffee.com/No.9Li  
@@ -163,6 +167,7 @@ https://buymeacoffee.com/No.9Li
 - 擴充產生的資料存在**您的瀏覽器／裝置**（Chrome storage）。  
 - 「請我喝咖啡」僅在您**主動點擊**時開啟第三方網站；屬自願支持，**不含 Pro**。  
 - 可選 **Pro**（一次買斷）解鎖整包本機匯出／匯入；結帳與授權驗證透過 **Polar**。
+- Chrome Web Store：https://chromewebstore.google.com/detail/bookmarkmemo/dmihfdbbcdkmaejgdmgjejihnjgjhmde
 
 ---
 
@@ -253,6 +258,8 @@ https://bookmarkmemo.github.io/privacy-policy/TERMS.md
 
 問題請至：https://github.com/bookmarkmemo/privacy-policy/issues  
 
-Pro 結帳：https://buy.polar.sh/REPLACE_WITH_YOUR_CHECKOUT_LINK  
+Pro 結帳：https://buy.polar.sh/polar_cl_pVr9BMe8GNKmnQRN17EM2SAQk2pDPBM1HEacI1P65nu  
+
+Chrome Web Store：https://chromewebstore.google.com/detail/bookmarkmemo/dmihfdbbcdkmaejgdmgjejihnjgjhmde  
 
 自願支持（不含 Pro）：https://buymeacoffee.com/No.9Li  
