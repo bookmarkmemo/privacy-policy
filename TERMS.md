@@ -63,6 +63,7 @@ Without limiting other disclaimers:
 - You are responsible for complying with Chrome Web Store and applicable laws.
 
 ### 7. Contact
+bookmarkmemo888@gmail.com
 https://github.com/bookmarkmemo/privacy-policy/issues
 
 ---
@@ -120,6 +121,7 @@ Pro 授權您在本機使用已解鎖功能。
 - 請遵守 Chrome 商店政策與適用法律。
 
 ### 7. 聯絡
+bookmarkmemo888@gmail.com
 https://github.com/bookmarkmemo/privacy-policy/issues
 
 ---
@@ -147,4 +149,5 @@ Chrome、商店政策或 API 变更可能导致功能失效；未来版本可能
 设备上限见商店说明；退款依 Polar／卖方政策。
 
 ### 6. 联系
+bookmarkmemo888@gmail.com
 https://github.com/bookmarkmemo/privacy-policy/issues
