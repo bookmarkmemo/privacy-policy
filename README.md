@@ -1,12 +1,12 @@
 # Privacy Policy — BookmarkMemo（書籤備忘錄）
 
-**Last updated:** 2026-09-23  
-**Developer:** Jack-Li1988  
+**Last updated:** 2026-09-24  
+**Developer:** bookmarkmemo  
 **Product:** BookmarkMemo / 書籤備忘錄 (Chrome Extension)  
-**Contact:** https://github.com/Jack-Li1988/privacy-policy/issues  
+**Contact:** https://github.com/bookmarkmemo/privacy-policy/issues  
 
 This file is a local backup of the public privacy policy.  
-Public URL (GitHub Pages): https://jack-li1988.github.io/privacy-policy/
+Public URL (GitHub Pages): https://bookmarkmemo.github.io/privacy-policy/
 
 ---
 
@@ -17,7 +17,7 @@ BookmarkMemo (書籤備忘錄) helps you browse Chrome bookmarks with optional g
 - We do **not** operate a backend server that collects your bookmarks or notes.
 - Data created by the extension is stored in **your browser** (Chrome storage) on your device.
 - Optional “Buy me a coffee” opens a third-party site only when **you** click the link; it is voluntary support and does **not** unlock Pro.
-- Optional **Pro** (one-time) unlocks full local backup export/import. Checkout and license activation use **Lemon Squeezy**.
+- Optional **Pro** (one-time) unlocks full local backup export/import. Checkout and license activation use **Polar**.
 
 ---
 
@@ -52,7 +52,7 @@ Stored locally (examples):
 - Pro license key cache and validation timestamps (if you activate Pro).
 
 ### 2.7 Pro license (optional)
-If you buy Pro and activate a license key, the extension sends the **license key** and a **device instance id** to Lemon Squeezy’s License API to activate/validate. It does **not** send your bookmarks, notes, or images to Lemon Squeezy or to the developer.
+If you buy Pro and activate a license key, the extension sends the **license key** and a **device instance id** to Polar’s License API to activate/validate. It does **not** send your bookmarks, notes, or images to Polar or to the developer.
 
 ---
 
@@ -64,7 +64,7 @@ Data is used only to provide extension features on your device:
 - keep UI preferences;
 - annotate and save guide screenshots you create;
 - (Pro) export/import a local backup file you choose;
-- (Pro) verify your license with Lemon Squeezy.
+- (Pro) verify your license with Polar.
 
 We do **not** sell your data.  
 We do **not** use it for advertising profiles.
@@ -80,20 +80,20 @@ We do **not** use it for advertising profiles.
 | Temporary sticky / caches | `chrome.storage.session` on your device | No |
 | Screenshots you capture | `chrome.storage.local` on your device | No |
 | Pro license cache | `chrome.storage.local` on your device | No |
-| License key + instance (on activate/validate) | — | Sent only to Lemon Squeezy API |
+| License key + instance (on activate/validate) | — | Sent only to Polar API |
 
 The extension does **not** upload your bookmarks, notes, or screenshots to a developer-operated server.
 
 ### Third parties
 - **Google / Chrome**: browser APIs and (if you install from) Chrome Web Store are governed by Google’s policies.
-- **Lemon Squeezy** (`lemonsqueezy.com` / `api.lemonsqueezy.com`): used for Pro checkout and license activate/validate when you choose to purchase or enter a key. Payment and refund terms are those of Lemon Squeezy and the seller. Device activation limit is configured on the product (currently **2**).
+- **Polar** (`polar.sh` / `api.polar.sh`): used for Pro checkout and license activate/validate when you choose to purchase or enter a key. Payment and refund terms are those of Polar and the seller. Device activation limit is configured on the product (currently **2**).
 - **Buy Me a Coffee** (`buymeacoffee.com/No.9Li`): opened only if you click the tip link; voluntary support **without** Pro entitlement; that site has its own privacy policy and payment processing (e.g. Stripe).
 
 ### Refunds / devices (summary)
-Pro is a one-time unlock for backup export/import. Refunds follow Lemon Squeezy / seller policy. A license may be activated on a limited number of devices (see store listing). Uninstalling the extension removes local data and does not automatically back it up—export while Pro is active if you need a copy.
+Pro is a one-time unlock for backup export/import. Refunds follow Polar / seller policy. A license may be activated on a limited number of devices (see store listing). Uninstalling the extension removes local data and does not automatically back it up—export while Pro is active if you need a copy.
 
 For Pro license details (local unlock, offline continuation after activation, Chrome/Web Store change limits), see:  
-https://jack-li1988.github.io/privacy-policy/TERMS.md
+https://bookmarkmemo.github.io/privacy-policy/TERMS.md
 
 ---
 
@@ -104,7 +104,7 @@ https://jack-li1988.github.io/privacy-policy/TERMS.md
 - **tabs / activeTab / scripting / webNavigation** — panel behavior across tabs, open bookmarks, inject UI, capture when you request it  
 - **favicon** — show bookmark icons  
 - **Host access to websites** — show the floating panel and capture/annotate on normal web pages  
-- **api.lemonsqueezy.com** — activate/validate Pro license keys  
+- **api.polar.sh** — activate/validate Pro license keys  
 
 ---
 
@@ -133,10 +133,10 @@ We may update this policy. The “Last updated” date will change. Continued us
 ## 9. Contact
 
 Questions: open an issue at  
-https://github.com/Jack-Li1988/privacy-policy/issues  
+https://github.com/bookmarkmemo/privacy-policy/issues  
 
 Pro checkout:  
-https://bookmarkmemo.lemonsqueezy.com/checkout/buy/50dae5da-f2bc-4585-9e30-241645ff489c  
+https://buy.polar.sh/REPLACE_WITH_YOUR_CHECKOUT_LINK  
 
 Tip / support page (optional, user-initiated, no Pro):  
 https://buymeacoffee.com/No.9Li  
@@ -145,13 +145,13 @@ https://buymeacoffee.com/No.9Li
 
 # 隱私權政策 — BookmarkMemo（書籤備忘錄）
 
-**最後更新日期：** 2026-09-23  
-**開發者：** Jack-Li1988  
+**最後更新日期：** 2026-09-24  
+**開發者：** bookmarkmemo  
 **產品：** BookmarkMemo／書籤備忘錄（Chrome 擴充功能）  
-**聯絡方式：** https://github.com/Jack-Li1988/privacy-policy/issues  
+**聯絡方式：** https://github.com/bookmarkmemo/privacy-policy/issues  
 
 本檔為公開隱私權政策的本機備份。  
-公開網址（GitHub Pages）：https://jack-li1988.github.io/privacy-policy/
+公開網址（GitHub Pages）：https://bookmarkmemo.github.io/privacy-policy/
 
 ---
 
@@ -162,7 +162,7 @@ https://buymeacoffee.com/No.9Li
 - 我們**沒有**營運會收集您書籤或筆記的後端伺服器。  
 - 擴充產生的資料存在**您的瀏覽器／裝置**（Chrome storage）。  
 - 「請我喝咖啡」僅在您**主動點擊**時開啟第三方網站；屬自願支持，**不含 Pro**。  
-- 可選 **Pro**（一次買斷）解鎖整包本機匯出／匯入；結帳與授權驗證透過 **Lemon Squeezy**。
+- 可選 **Pro**（一次買斷）解鎖整包本機匯出／匯入；結帳與授權驗證透過 **Polar**。
 
 ---
 
@@ -187,7 +187,7 @@ https://buymeacoffee.com/No.9Li
 本機儲存例如：自訂說明圖、文字備忘、面板偏好、側欄模式、寬度、黏住書籤，以及（若啟用 Pro）授權金鑰快取與驗證時間。
 
 ### 2.7 Pro 授權（可選）
-購買並啟用時，擴充會將**授權金鑰**與**裝置 instance** 傳送至 Lemon Squeezy License API 以啟用／驗證。**不會**把書籤、備忘或圖片傳給 Lemon Squeezy 或開發者伺服器。
+購買並啟用時，擴充會將**授權金鑰**與**裝置 instance** 傳送至 Polar License API 以啟用／驗證。**不會**把書籤、備忘或圖片傳給 Polar 或開發者伺服器。
 
 ---
 
@@ -205,18 +205,18 @@ https://buymeacoffee.com/No.9Li
 | 備忘、說明圖、偏好 | 本機 `chrome.storage.local` | 否 |
 | 暫時狀態 | 本機 `chrome.storage.session` | 否 |
 | Pro 授權快取 | 本機 `chrome.storage.local` | 否 |
-| 授權金鑰＋instance（啟用／驗證時） | — | 僅送至 Lemon Squeezy API |
+| 授權金鑰＋instance（啟用／驗證時） | — | 僅送至 Polar API |
 
 ### 第三方
 - **Google／Chrome**  
-- **Lemon Squeezy**：Pro 結帳與授權；退款與條款依 LS／賣方；目前啟用上限 **2** 台裝置  
+- **Polar**：Pro 結帳與授權；退款與條款依 Polar／賣方；目前啟用上限 **2** 台裝置  
 - **Buy Me a Coffee**：僅在您點擊時開啟；自願支持、**不含 Pro**
 
 ### 退款／裝置（概要）
-Pro 為匯出／匯入之一次買斷。退款依 Lemon Squeezy／賣方政策。授權可啟用台數見商店說明。卸載擴充會清除本機資料且無法自動備份——需要請先匯出。
+Pro 為匯出／匯入之一次買斷。退款依 Polar／賣方政策。授權可啟用台數見商店說明。卸載擴充會清除本機資料且無法自動備份——需要請先匯出。
 
 Pro 授權細節（本機解鎖、啟用後離線續用、Chrome／商店變更限制）見：  
-https://jack-li1988.github.io/privacy-policy/TERMS.md
+https://bookmarkmemo.github.io/privacy-policy/TERMS.md
 
 ---
 
@@ -227,7 +227,7 @@ https://jack-li1988.github.io/privacy-policy/TERMS.md
 - **tabs／activeTab／scripting／webNavigation** — 浮層與截圖流程  
 - **favicon** — 書籤圖示  
 - **網站主機權限** — 在一般網頁顯示浮層與截圖標記  
-- **api.lemonsqueezy.com** — Pro 授權啟用／驗證  
+- **api.polar.sh** — Pro 授權啟用／驗證  
 
 ---
 
@@ -251,8 +251,8 @@ https://jack-li1988.github.io/privacy-policy/TERMS.md
 
 ## 9. 聯絡
 
-問題請至：https://github.com/Jack-Li1988/privacy-policy/issues  
+問題請至：https://github.com/bookmarkmemo/privacy-policy/issues  
 
-Pro 結帳：https://bookmarkmemo.lemonsqueezy.com/checkout/buy/50dae5da-f2bc-4585-9e30-241645ff489c  
+Pro 結帳：https://buy.polar.sh/REPLACE_WITH_YOUR_CHECKOUT_LINK  
 
 自願支持（不含 Pro）：https://buymeacoffee.com/No.9Li  
